@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1590816653 source:c:\users\mitko\desktop\vectors\main.cpp
+	<iostream>
+	"point.h"
+
+1590821737 c:\users\mitko\desktop\vectors\point.h
+	<iostream>
+	<cmath>
+
+1590816653 source:c:\users\mitko\desktop\vectors\point.cpp
+	"point.h"
+	<iostream>
+
+1590823687 source:c:\users\mitko\desktop\vectors\vector.cpp
+	"vector.h"
+	"exceptions.h"
+
+1590823693 c:\users\mitko\desktop\vectors\vector.h
+	"point.h"
+	<iostream>
+
+1590828833 c:\users\mitko\desktop\vectors\exceptions.h
+	<iostream>
+
+1590828613 source:c:\users\mitko\desktop\vectors\triangle.cpp
+	"triangle.h"
+	"exceptions.h"
+
+1590824897 c:\users\mitko\desktop\vectors\triangle.h
+	"point.h"
+
+1590816653 source:c:\users\mitko\desktop\java learning\vectors\point.cpp
+	"point.h"
+	<iostream>
+
+1590821737 c:\users\mitko\desktop\java learning\vectors\point.h
+	<iostream>
+	<cmath>
+
+1590828613 source:c:\users\mitko\desktop\java learning\vectors\triangle.cpp
+	"triangle.h"
+	"exceptions.h"
+
+1590824897 c:\users\mitko\desktop\java learning\vectors\triangle.h
+	"point.h"
+
+1590828833 c:\users\mitko\desktop\java learning\vectors\exceptions.h
+	<iostream>
+
+1590823687 source:c:\users\mitko\desktop\java learning\vectors\vector.cpp
+	"vector.h"
+	"exceptions.h"
+
+1590823693 c:\users\mitko\desktop\java learning\vectors\vector.h
+	"point.h"
+	<iostream>
+
